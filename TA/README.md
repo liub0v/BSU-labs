@@ -52,17 +52,27 @@
 
 ## [Algorithms on graphs](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs)
  
-### [Individual tasks]()
+### [Individual tasks](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Individual%20tasks)
 
-+ [**]()
++ [*34. Таксист*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Individual%20tasks/34.%20%D0%A2%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%82)
 
-+ [**]()
++ [*7. Разбиение на команды по численности*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Individual%20tasks/7.%20%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%BF%D0%BE%20%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
  
-### [Common tasks]()
+### [Common tasks](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks)
  
- + []()
+ + [*64. Построить матрицу смежности*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/64.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%83%20%D1%81%D0%BC%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
 
- + []()
+ + [*65. Построить список смежности*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/65.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%81%D0%BC%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
+ 
+ + [*66.1. Канонический вид (по списку дуг)*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/66.1.%20%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B8%D0%B4%20(%D0%BF%D0%BE%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D1%83%20%D0%B4%D1%83%D0%B3))
+
+ + [*66.2. Канонический вид (по матрице смежности)*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/66.2.%20%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B8%D0%B4%20(%D0%BF%D0%BE%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B5%20%D1%81%D0%BC%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8))
+ 
+ + [*67.1. Поиск в ширину*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/67.1.%20%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B2%20%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D1%83)
+
+ + [*67.2. Поиск в глубину*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/67.2.%20%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B2%20%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D1%83)
+ 
+ + [*72. Алгоритм Дейкстры*](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs/Common%20tasks/72.%20%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%20%D0%94%D0%B5%D0%B9%D0%BA%D1%81%D1%82%D1%80%D1%8B)
  
 ## Brute force
  
