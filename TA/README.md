@@ -43,7 +43,7 @@
  + []()
 
  + []()
- 
+
 ##[Algorithms on graphs]()
  
 ### [Individual tasks]()
