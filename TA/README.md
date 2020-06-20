@@ -44,7 +44,7 @@
 
  + []()
 
-##[Algorithms on graphs]()
+## [Algorithms on graphs](https://github.com/liub0v/BSU-labs/tree/master/TA/4.%20Algorithms%20on%20graphs)
  
 ### [Individual tasks]()
 
@@ -58,15 +58,15 @@
 
  + []()
  
-##[Brute force]
+## Brute force
  
-### [Individual task]
+### Individual task
 
  + [*31. n работ, 1 исполнитель*](https://github.com/liub0v/BSU-labs/tree/master/TA/5.%20Brute%20force/Individual%20tasks/31.%20n%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%2C%201%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
  
-##[Approximate algorithms]
+## Approximate algorithms
  
-### [Individual task]
+### Individual task
 
  + [*12. Задача коммивояжёра на плоскости*](https://github.com/liub0v/BSU-labs/tree/master/TA/6.%20Approximate%20algorithms/Individual%20tasks/12.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D0%B2%D0%BE%D1%8F%D0%B6%D1%91%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D0%B8)
 
