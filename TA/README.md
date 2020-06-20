@@ -2,7 +2,7 @@
 
 > My solutions problems from [IRunner 2](https://acm.bsu.by/) (Theory of algorithms course on FAMCS, BSU)
 
-## [Binary Search Trees](https://github.com/liub0v/BSU-labs/tree/master/TA/1.%20Binary%20Search%20Trees)
+## [**Binary Search Trees**](https://github.com/liub0v/BSU-labs/tree/master/TA/1.%20Binary%20Search%20Trees)
 
 ### [Individual tasks](https://github.com/liub0v/BSU-labs/tree/master/TA/1.%20Binary%20Search%20Trees/Individual%20tasks/9)
 
