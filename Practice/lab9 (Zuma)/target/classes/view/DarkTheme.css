@@ -1,0 +1,326 @@
+.background {
+    -fx-background-color: linear-gradient(#33dbaf 0%, #6acbcf 25%, #54a5c9 75%, #427dbf 100%);
+}
+.list-view {
+
+    -fx-font-family: "Didot";
+    -fx-text-fill: #ffffff;
+    -fx-background-color: linear-gradient(#33dbaf 0%, #6acbcf 25%, #54a5c9 75%, #427dbf 100%);
+    -fx-border-color: rgba(66, 125, 191, 0);
+    -fx-effect: dropshadow( gaussian , rgba(0, 0, 0, 0.55), 50, 0.0 , 10 , 8 );
+    -fx-control-inner-background: rgba(125, 234, 238, 0.2);
+    -fx-control-inner-background-alt: derive(-fx-control-inner-background, 50%);
+}
+.list-cell {
+    -fx-text-fill: white ;
+    -fx-font-size: 14pt;
+}
+
+/* The main scrollbar CSS class of ListView */
+.list-view .scroll-bar:horizontal ,
+.list-vieww  .scroll-bar:vertical{
+    -fx-background-color: rgba(155, 201, 201, 0);
+
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+.list-view .increment-button ,.list-view .decrement-button {
+    -fx-background-color: white;
+    -fx-border-color:white;
+}
+
+/* The main scrollbar **track** CSS class  */
+.list-view .scroll-bar:horizontal .track ,
+.list-view .scroll-bar:vertical .track{
+    -fx-background-color: white;
+    -fx-border-color: white;
+    -fx-background-radius: 0em;
+}
+
+/* The main scrollbar **thumb** CSS class which we drag every time (movable) */
+.list-view .scroll-bar:horizontal .thumb,
+.list-view .scroll-bar:vertical .thumb {
+    -fx-background-color: rgba(191, 217, 214, 0.55);
+    -fx-background-insets: 0, 0, 0;
+    -fx-background-radius:0em;
+
+}
+
+/* ------------------------------------------------------------------------------------- */
+/** EVENT CSS **/
+/* ------------------------------------------------------------------------------------- */
+
+/* The main scrollbar **track** CSS class on event of "hover" and "pressed" */
+
+.list-view .scroll-bar:horizontal:hover .track ,
+.list-view .scroll-bar:horizontal:pressed .track ,
+.list-view .scroll-bar:vertical:hover .track,
+.list-view .scroll-bar:vertical:pressed .track{
+    -fx-background-color: derive(rgba(201, 248, 248, 0),20%);
+
+    -fx-opacity: 1 ;
+    -fx-background-radius: 0em;
+
+}
+
+/* The main scrollbar **thumb** CSS class on event of "hover" and "pressed" */
+.list-view .scroll-bar .thumb:hover,
+.list-view .scroll-bar .thumb:pressed{
+    -fx-background-color: derive(rgba(161, 199, 199, 0.65),20%);
+}
+
+
+
+
+.label1 {
+    -fx-font-size: 24pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #525b6a;
+    -fx-opacity: 1;
+}
+.label2 {
+    -fx-font-size: 18pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #525b6a;
+    -fx-opacity: 1;
+}
+.labelinfo {
+     -fx-font-size: 16pt;
+     -fx-font-family: "TEMPUS SANS ITC";
+     -fx-text-fill: #ffffff;
+     -fx-opacity: 1;
+}
+
+.labelwin {
+    -fx-font-size: 50pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #000000;
+    -fx-opacity: 1;
+}
+.labellose {
+    -fx-font-size: 50pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #fffbff;
+    -fx-opacity: 1;
+}
+.labelscore {
+    -fx-font-size: 30pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #000000;
+    -fx-opacity: 1;
+    -fx-border-width: 1;
+    -fx-border-color: #000000;
+}
+.labelscore1 {
+    -fx-font-size: 30pt;
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-text-fill: #ffffff;
+    -fx-opacity: 1;
+    -fx-border-width: 1;
+    -fx-border-color: #ffffff;
+}
+.label-bright {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+}
+
+.label-header {
+    -fx-font-size: 32pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+}
+
+.table-view {
+    -fx-base: #1d1d1d;
+    -fx-control-inner-background: #1d1d1d;
+    -fx-background-color: #1d1d1d;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color:
+        transparent
+        transparent
+        derive(-fx-base, 80%)
+        transparent;
+    -fx-border-insets: 0 10 1 0;
+}
+
+.table-view .column-header .label {
+    -fx-font-size: 20pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: -fx-focus-color;
+}
+
+.split-pane:horizontal > .split-pane-divider {
+    -fx-border-color: transparent #1d1d1d transparent #1d1d1d;
+    -fx-background-color: transparent, derive(#1d1d1d,20%);
+}
+
+.split-pane {
+    -fx-padding: 1 0 0 0;
+}
+
+.menu-bar {
+    -fx-background-color: derive(#1d1d1d,20%);
+}
+
+.context-menu {
+    -fx-background-color: derive(#1d1d1d,50%);
+}
+
+.menu-bar .label {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.menu .left-container {
+    -fx-background-color: black;
+}
+
+.text-field {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Times New Roman";
+}
+
+
+.button2 {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgba(181, 201, 225, 0);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(181, 201, 225, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 24pt;
+    -fx-text-fill: #525b6a;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.buttonexit {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(235, 224, 176, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 24pt;
+    -fx-text-fill: #ffffff;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.buttonexit1 {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgb(255, 255, 255);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(235, 224, 176, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 24pt;
+    -fx-text-fill: #000000;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.button1 {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgba(200, 220, 244, 0);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(211, 230, 249, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 30pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #525b6a;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.button1 :hover {
+    -fx-background-color: rgba(201, 218, 255, 0);
+
+}
+.button2 :hover {
+    -fx-background-color: rgba(135, 149, 173, 0);
+
+}
+.button2:pressed, .button:default:hover:pressed {
+    -fx-background-color: rgba(135, 149, 173, 0);
+    -fx-text-fill: rgba(29, 29, 29, 0.55);
+}
+.button1:pressed, .button:default:hover:pressed {
+    -fx-background-color: rgba(166, 166, 166, 0.01);
+    -fx-text-fill: rgba(29, 29, 29, 0.55);
+}
+.stopbutton {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgba(0, 0, 0, 0);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(211, 230, 249, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 24pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.stopbutton:pressed, .button:default:hover:pressed {
+    -fx-border-color: rgb(0, 0, 0);
+    -fx-border-width: 1;
+    -fx-background-color: rgba(135, 149, 173, 0);
+    -fx-text-fill: rgba(29, 29, 29, 0.55);
+}
+.buttonlevel {
+    -fx-padding: 0 0 0 0;
+    -fx-border-color: rgba(0, 0, 0, 0);
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgba(211, 230, 249, 0);
+    -fx-font-family: "TEMPUS SANS ITC";
+    -fx-font-size: 60pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #525b6a;
+    -fx-background-insets: 0 0 0 0, 0, 0, 0;
+}
+.sbuttonlevel:pressed, .button:default:hover:pressed {
+    -fx-border-color: rgb(0, 0, 0);
+    -fx-border-width: 1;
+    -fx-background-color: rgba(135, 149, 173, 0);
+    -fx-text-fill: #2f353f;
+}
+
+.button:focused {
+    -fx-border-color: #c8dcf4, #c8dcf4;
+    -fx-border-width: 0, 0;
+    -fx-border-style: solid, segments(1, 1);
+    -fx-border-radius: 0, 0;
+    -fx-border-insets: 1 1 1 1, 0;
+}
+
+.button:disabled, .button:default:disabled {
+    -fx-opacity: 0.4;
+    -fx-background-color: #1d1d1d;
+    -fx-text-fill: white;
+}
+
+.button:default {
+    -fx-background-color: -fx-focus-color;
+    -fx-text-fill: #ffffff;
+}
+
+.button:default:hover {
+    -fx-background-color: derive(-fx-focus-color,80%);
+}

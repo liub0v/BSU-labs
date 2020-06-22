@@ -1,0 +1,76 @@
+.body::before{
+    content: '';
+    position: fixed; /* Фиксируем на одном месте */
+
+    left: 0; right: 0px;
+    top: 0; bottom: 0;
+    z-index: -1;
+    background: #c7b39b url(../resources/back2.jpg) ; /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+    filter:  brightness(50%);
+}
+.logo{
+    width:70px;
+    height:70px;
+    display: inline;
+    margin: 0 0 30px;
+}
+.h1{
+    display: flex;
+}
+.div-header{
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 370%;
+    line-height: 70px;
+    color: #ffffff;
+}
+.img{
+    width: 600px;
+    height: 350px;
+}
+.div1{
+
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.text-description{
+    outline: none;
+    -moz-appearance: none;
+    border: 0px solid #999;
+    resize: none;
+    width: 600px;
+    height: 345px;
+    background-color: rgba(255,0,141,0);
+    color: #fffefe;
+    font-family: 'Raleway', monospace;
+    font-size: 147%;
+    text-align: justify;
+    font-weight: 100;
+}
+.div-h2{
+    margin-top: 30px;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 400%;
+    margin-left: 100px;
+
+    color: #ffffff;
+}
+
+.video{
+
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+.div-contacts{
+    margin-top: 0px;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 150%;
+    margin-left: 10px;
+    color: #ffffff;
+}

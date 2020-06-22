@@ -1,0 +1,12 @@
+.h1 {
+    margin: 30px 100px;
+    color: #5c8683;
+    font-size: 300%;
+    font-family: "Tahoma", Ravie, sans-serif;
+    text-align: center;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}

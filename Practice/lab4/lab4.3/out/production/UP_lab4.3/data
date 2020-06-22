@@ -1,0 +1,46 @@
+[
+  {
+    "country": "China",
+    "number": 80881
+  },
+  {
+    "country": "Italy",
+    "number": 27980
+  },
+  {
+    "country": "Iran",
+    "number": 16169
+  },
+  {
+    "country": "Spain",
+    "number": 11409
+  },
+  {
+    "country": "Germany",
+    "number": 8604
+  },
+  {
+    "country": "South Korea",
+    "number": 8320
+  },
+  {
+    "country": "France",
+    "number": 6633
+  },
+  {
+    "country": "USA",
+    "number": 5213
+  },
+  {
+    "country": "Switzerland",
+    "number": 2742
+  },
+  {
+    "country": "UK",
+    "number": 1950
+  },
+  {
+    "country": "other",
+    "number": 8000
+  }
+]

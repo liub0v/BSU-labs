@@ -1,0 +1,14 @@
+com\kurets\address\Launcher.class
+com\kurets\address\MainApp.class
+com\kurets\address\Start.class
+com\kurets\address\util\ReadObjectsHelper.class
+com\kurets\address\view\OtherStatisticsController.class
+com\kurets\address\view\PersonOverviewController.class
+com\kurets\address\util\DateUtil.class
+com\kurets\address\view\RootLayoutController.class
+com\kurets\address\view\PersonEditDialogController.class
+com\kurets\address\util\WriteObjectsHelper.class
+com\kurets\address\util\CustomSAXHandler.class
+com\kurets\address\model\Person.class
+com\kurets\address\view\BirthdayStatisticsController.class
+com\kurets\address\Start$1.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root lang="en">
+    <Seasonal>
+        <field>Squash</field>
+        <field>50</field>
+        <field>70</field>
+        <field>Summer</field>
+    </Seasonal>
+    <Perennial>
+        <field>Tomato</field>
+        <field>40</field>
+        <field>140</field>
+    </Perennial>
+    <Canned>
+        <field>Corn</field>
+        <field>100</field>
+        <field>200</field>
+        <field>Fall</field>
+        <field>24</field>
+    </Canned>
+    <Exotic>
+        <field>Purple potato</field>
+        <field>150</field>
+        <field>300</field>
+        <field>China</field>
+    </Exotic>
+    <Merchantable>
+        <field>Portobello Mushrooms</field>
+        <field>180</field>
+        <field>500</field>
+        <field>Germany</field>
+    </Merchantable>
+</Root>

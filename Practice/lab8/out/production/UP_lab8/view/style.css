@@ -1,0 +1,86 @@
+.background {
+    -fx-background-color: linear-gradient(#33dbaf 0%, #6acbcf 25%, #54a5c9 75%, #427dbf 100%);
+}
+.list-view {
+
+    -fx-font-family: "Didot";
+    -fx-text-fill: #ffffff;
+    -fx-background-color: linear-gradient(#33dbaf 0%, #6acbcf 25%, #54a5c9 75%, #427dbf 100%);
+    -fx-border-color: rgba(66, 125, 191, 0);
+    -fx-effect: dropshadow( gaussian , rgba(0, 0, 0, 0.55), 50, 0.0 , 10 , 8 );
+    -fx-control-inner-background: rgba(125, 234, 238, 0.2);
+    -fx-control-inner-background-alt: derive(-fx-control-inner-background, 50%);
+}
+.list-cell {
+    -fx-text-fill: white ;
+    -fx-font-size: 14pt;
+}
+
+/* The main scrollbar CSS class of ListView */
+.list-view .scroll-bar:horizontal ,
+.list-vieww  .scroll-bar:vertical{
+    -fx-background-color: rgba(155, 201, 201, 0);
+
+}
+
+/* The increment and decrement button CSS class of scrollbar */
+.list-view .increment-button ,.list-view .decrement-button {
+    -fx-background-color: white;
+    -fx-border-color:white;
+}
+
+/* The main scrollbar **track** CSS class  */
+.list-view .scroll-bar:horizontal .track ,
+.list-view .scroll-bar:vertical .track{
+    -fx-background-color: white;
+    -fx-border-color: white;
+    -fx-background-radius: 0em;
+}
+
+/* The main scrollbar **thumb** CSS class which we drag every time (movable) */
+.list-view .scroll-bar:horizontal .thumb,
+.list-view .scroll-bar:vertical .thumb {
+    -fx-background-color: rgba(191, 217, 214, 0.55);
+    -fx-background-insets: 0, 0, 0;
+    -fx-background-radius:0em;
+
+}
+
+/* ------------------------------------------------------------------------------------- */
+/** EVENT CSS **/
+/* ------------------------------------------------------------------------------------- */
+
+/* The main scrollbar **track** CSS class on event of "hover" and "pressed" */
+
+.list-view .scroll-bar:horizontal:hover .track ,
+.list-view .scroll-bar:horizontal:pressed .track ,
+.list-view .scroll-bar:vertical:hover .track,
+.list-view .scroll-bar:vertical:pressed .track{
+    -fx-background-color: derive(rgba(201, 248, 248, 0),20%);
+
+    -fx-opacity: 1 ;
+    -fx-background-radius: 0em;
+
+}
+
+/* The main scrollbar **thumb** CSS class on event of "hover" and "pressed" */
+.list-view .scroll-bar .thumb:hover,
+.list-view .scroll-bar .thumb:pressed{
+    -fx-background-color: derive(rgba(161, 199, 199, 0.65),20%);
+}
+
+
+
+
+.label {
+    -fx-font-size: 100pt;
+    -fx-text-fill: #ffffff;
+    -fx-opacity: 1;
+}
+
+.text {
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Courier New";
+    -fx-opacity: 1;
+}
+

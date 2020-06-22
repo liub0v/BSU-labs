@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Persons lang="en">
+    <Person>
+        <firstName>Hans</firstName>
+        <lastName>Muster</lastName>
+        <street>some street</street>
+        <city>some city</city>
+        <postalCode>1234</postalCode>
+        <birthday>1999-02-21</birthday>
+    </Person>
+    <Person>
+        <firstName>Ruth</firstName>
+        <lastName>Mueller</lastName>
+        <street>some street</street>
+        <city>some city</city>
+        <postalCode>1234</postalCode>
+        <birthday>1999-02-21</birthday>
+    </Person>
+    <Person>
+        <firstName>Любовь</firstName>
+        <lastName>Курец</lastName>
+        <street>Мира</street>
+        <city>Воложин</city>
+        <postalCode>222376</postalCode>
+        <birthday>2001-08-24</birthday>
+    </Person>
+</Persons>

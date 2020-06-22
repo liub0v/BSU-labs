@@ -1,0 +1,92 @@
+.circle {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: rgba(151, 102, 206, 0.34);
+    border: 1px solid #000000;
+}
+.h1 {
+    margin: 30px 100px;
+    color: #efc8ca;
+    font-size: 400%;
+    font-family: "Lucida Fax", Ravie, sans-serif;
+    text-align: right;
+}
+.question{
+    color: #a7c2e0;
+    font-size: 100%;
+    font-family: "Lucida Fax", Ravie, sans-serif;
+    text-align: left;
+}
+
+.move_title{
+    margin: 19px 100px;
+    color: #bdd0e2;
+    font-size: 200%;
+    font-family: "Lucida Fax", Ravie, sans-serif;
+    text-align: left;
+}
+.buttonSend {
+    background-color: rgba(101, 109, 101, 0); /* Green */
+    border: none;
+    color: rgba(73, 70, 70, 0.82);
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 17%;
+}
+.buttonCancel {
+    background-color: rgba(101, 109, 101, 0); /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 5px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 200%;
+    font-weight: bold;
+    margin-left: 90% ;
+    font-family:  "Lucida Fax", Ravie, sans-serif;
+}
+.buttonCancel:hover {
+
+    color: rgba(234, 238, 255, 0.61);
+
+}
+.body {
+    background: #c7b39b url(../images/bg.jpg) ; /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+    background-size: cover;
+}
+.textarea1 {
+    margin: 30px 100px;
+    background-color: rgba(255,255,255,0.53);
+    border		: 1px solid #490a0a;
+    resize: none;
+    row-gap: 50px;
+    column-count: unset;
+}
+.input1 {
+
+    width: 42%;
+    padding: 15px 22px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.checkbox1 {
+
+    width: 15px;
+    height: 15px;
+    padding: 15px 22px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.select1{
+    width: 100px;
+    height: 49px;
+
+}
+
+
