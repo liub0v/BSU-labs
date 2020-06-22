@@ -12,13 +12,13 @@
 
 > Timer, JFreeChart and JSON
 
-+ [lab5](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab5) - Checking the correctness of entering the formats of numbers, date, time, mail
++ [lab5](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab5) - Checking the correctness of entering the formats of numbers, date, time, mail; Search for dates in text
 
 > Regular expressions
 
-+ [lab6](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab6%20(Excel)) - Search for dates in text
++ [lab6](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab6%20(Excel)) - Programm «Excel Date lite»
 
-> Programm «Excel Date lite»
+> Swing, MVC pattern
 
 + [lab7](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab7) - Game «Puzzle», 3D text display
 
