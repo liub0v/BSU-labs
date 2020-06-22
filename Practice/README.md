@@ -29,6 +29,8 @@
 
 >  Observer pattern
 
+## Larger Projects
+
 + [lab9](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab9%20(Zuma)) - ***Game «*ZUMA*»***
 
 > JavaFX
