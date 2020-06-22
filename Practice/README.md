@@ -1,41 +1,41 @@
 # Educational Practice
 
-+ [lab1](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab1)
++ [lab1](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab1) -  Inheritance and polymorphism
 
-> Inheritance and polymorphism (Option 4. State)
+> Option 4. State
 
-+ [lab2](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab2)
++ [lab2](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab2) - Inheritance and polymorphism
 
-> Inheritance and polymorphism (Option 4. The chef)
+> Option 4. The chef
 
-+ [lab4](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab4)
++ [lab4](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab4) - Clock, Moving picture, Diagram
 
-> Timer, Diagram and JSON
+> Timer, JFreeChart and JSON
 
-+ [lab5](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab5)
++ [lab5](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab5) - Checking the correctness of entering the formats of numbers, date, time, mail
 
 > Regular expressions
 
-+ [lab6](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab6%20(Excel))
++ [lab6](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab6%20(Excel)) - Search for dates in text
 
 > Programm «Excel Date lite»
 
-+ [lab7](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab7)
++ [lab7](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab7) - Game «Puzzle», 3D text display
 
 > PixelGrabber, Java3D
 
-+ [lab8](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab8)
++ [lab8](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab8) - KeyLogger
 
-> KeyLogger (Observer pattern)
+>  Observer pattern
 
-+ [lab9](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab9%20(Zuma))
++ [lab9](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab9%20(Zuma)) - Game «ZUMA»
 
-> game ZUMA
+> JavaFX
 
-+ [lab10](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab10)
++ [lab10](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab10) - Site
 
 > HTML, CSS, JavaScript
 
-+ [lab11](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab11%20(AddressBook))
++ [lab11](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab11%20(AddressBook)) - Programm «Address Book»
 
-> Programm «Address Book» (XML, DOM, Serializable, SAX)
+> XML, DOM, Serializable, SAX
