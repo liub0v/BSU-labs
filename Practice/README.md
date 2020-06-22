@@ -28,7 +28,7 @@
 + [lab8](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab8) - ***KeyLogger***
 
 >  Observer pattern
-***
+
 + [lab9](https://github.com/liub0v/BSU-labs/tree/master/Practice/lab9%20(Zuma)) - ***Game «*ZUMA*»***
 
 > JavaFX
