@@ -8,5 +8,5 @@
 
 + [Сomputational methods of algebra](https://github.com/liub0v/BSU-labs/tree/master/%D0%A1omputational%20methods%20of%20algebra)
 
-+ [Methods of numerical analysis]()
++ [Methods of numerical analysis](https://github.com/liub0v/BSU-labs/tree/master/Methods%20of%20numerical%20analysis)
 
