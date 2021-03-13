@@ -1,0 +1,190 @@
+.canvasStyle {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 0;
+    background-color: rgba(0, 0, 0, 0);
+    z-index: 1;
+}
+
+.GridStyle{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 0;
+    background-color: rgba(255, 255, 255, 0);
+    z-index: 0;
+}
+
+.buttonBar{
+    position: relative;
+    left: 410px;
+    top: -100px;
+
+}
+
+.buttonCircle{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonCircle:hover{
+    color: #767676;
+}
+.buttonCircle:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+.buttonClear {
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    letter-spacing: 5px;
+    background: #020101;
+    border:none;
+    color: #ffffff;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+.buttonClear:hover{
+    color: #9c9c9c;
+}
+.buttonClear:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+.buttonLine{
+    position: absolute;
+    left: 300px;
+    top: 60px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonLine:hover{
+    color: #767676;
+}
+.buttonLine:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+.buttonEllipse{
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonEllipse:hover{
+    color: #767676;
+}
+.buttonEllipse:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+.buttonGrid{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonGrid:hover{
+    color: #767676;
+}
+.buttonGrid:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+.buttonFill{
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonFill:hover{
+    color: #767676;
+}
+.buttonFill:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+.buttonClip{
+    position: absolute;
+    left: 900px;
+    top: 60px;
+    width: 250px;
+    height: 50px;
+    outline:0;
+    font-size:18px;
+    font-weight:100;
+    background:#fff;
+    border:none;
+
+    transition:all .3s ease-out;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+.buttonClip:hover{
+    color: #767676;
+}
+.buttonClip:active{
+    color: #050505;
+    box-shadow: 1px 1px 5px rgba(0,0,0,1);
+}
+
+
+
