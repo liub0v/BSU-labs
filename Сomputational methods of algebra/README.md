@@ -1,1 +1,0 @@
-# Сomputational methods of algebra
